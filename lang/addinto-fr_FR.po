@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AddInto 2.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-22 14:05+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: sam <contact@addinto.com>\n"
+"Language-Team: AddInto <contact@addinto.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2;plural=n>2\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../addinto.php:46
+msgid "Bookmark / Share"
+msgstr "Marquer / Partager"
+
+#: ../addinto.php:128
+msgid "Options saved"
+msgstr "Options sauvegardées"
+
+#: ../addinto.php:138
+msgid "AddInto Options"
+msgstr "Options AddInto"
+
+#: ../addinto.php:143
+msgid "Button image (More services button)"
+msgstr "Image du bouton (le bouton Plus de services)"
+
+#: ../addinto.php:180
+msgid "Alignement"
+msgstr "Alignement"
+
+#: ../addinto.php:183
+msgid "Left"
+msgstr "A gauche"
+
+#: ../addinto.php:184
+msgid "Center"
+msgstr "Au center"
+
+#: ../addinto.php:185
+msgid "Right"
+msgstr "A droite"
+
+#: ../addinto.php:191
+msgid "Display on"
+msgstr "Afficher dans"
+
+#: ../addinto.php:196
+msgid "Home"
+msgstr "Accueil"
+
+#: ../addinto.php:201
+msgid "Pages"
+msgstr "Pages"
+
+#: ../addinto.php:206
+msgid "Archives"
+msgstr "Archives"
+
+#: ../addinto.php:211
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../addinto.php:216
+msgid "Excerpts"
+msgstr "Extraits"
+
+#: ../addinto.php:222
+msgid "Button type"
+msgstr "Type de bouton"
+
+#: ../addinto.php:237
+msgid "ShareBox services"
+msgstr "Services de la ShareBox"
+
+#: ../addinto.php:241
+#: ../addinto.php:329
+#: ../addinto.php:342
+msgid "if empty, default services"
+msgstr "si vide, les services par défaut"
+
+#: ../addinto.php:247
+#: ../addinto.php:335
+#: ../addinto.php:348
+msgid "Show services list"
+msgstr "Afficher la liste des services"
+
+#: ../addinto.php:260
+msgid "Hide embedded objects"
+msgstr "Masquer les objets incorporés"
+
+#: ../addinto.php:261
+msgid "like flash and videos"
+msgstr "comme flash et les vidéos"
+
+#: ../addinto.php:272
+msgid "Dropdown menu Options"
+msgstr "Options du menu déroulant"
+
+#: ../addinto.php:279
+msgid "Show the menu onmouseover"
+msgstr "Afficher le menu déroulant au passage de la souris sur le bouton"
+
+#: ../addinto.php:285
+msgid "Show the menu onclick"
+msgstr "Afficher le menu déroulant lorsque  l'utilisateur clique sur le bouton"
+
+#: ../addinto.php:291
+msgid "Show the lightbox onclick (no dropdown menu)"
+msgstr "Afficher la lightbox lorsque  l'utilisateur clique sur le bouton (Pas de menu déroulant)"
+
+#: ../addinto.php:298
+msgid "Number of services per page"
+msgstr "Nombre de services par page"
+
+#: ../addinto.php:301
+msgid "if empty, default = 32"
+msgstr "si vide, par défaut = 32"
+
+#: ../addinto.php:307
+msgid "Columns number in the lightbox"
+msgstr "Nombre de colonnes dans la lightbox"
+
+#: ../addinto.php:313
+msgid "Default"
+msgstr "Par défaut"
+
+#: ../addinto.php:322
+msgid "Customize services"
+msgstr "Personnaliser les services"
+
+#: ../addinto.php:325
+msgid "Do not select services for dropdown menu and lightbox to use the default services."
+msgstr "Pour utiliser les services par défaut ne sélectionnez pas de services ci-dessous."
+
+#: ../addinto.php:327
+msgid "Dropdown menu"
+msgstr "Menu déroulant"
+
+#: ../addinto.php:359
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: ../addinto.php:403
+#: ../addinto.php:411
+#: ../addinto.php:413
+#: ../addinto.php:438
+#: ../addinto.php:450
+#: ../addinto.php:452
+msgid "Bookmark/share via AddInto"
+msgstr "Marquer/Partager via AddInto"
+
+#~ msgid "Button image"
+#~ msgstr "Image du bouton"
+
+#~ msgid "Yes"
+#~ msgstr "Oui"
+
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid "comma-separated"
+#~ msgstr "séparés par des virgules"
+
+#~ msgid "Leave empty the next two fields to use the default services."
+#~ msgstr ""
+#~ "Laissez les deux champs suivants vides pour utiliser les services par "
+#~ "défaut."
+
+#~ msgid "Select services"
+#~ msgstr "Sélectionnez les services"
+
+#~ msgid "Menu Options"
+#~ msgstr "Options du menu"
+
+#~ msgid "Lightbox/PopUp"
+#~ msgstr "Lightbox/PopUp"
+
+#~ msgid "Hide embedded objects :<br />(like flash and videos)"
+#~ msgstr "Masquer les objets incorporés :<br />(tels que flash et les vidéos)"
+
+#~ msgid "Show lightbox onclick (without the dropdown menu)"
+#~ msgstr ""
+#~ "Afficher la lightbox quand l'utilisateur clique sur le bouton (sans le "
+#~ "menu déroulant)"
+
+#~ msgid ""
+#~ "Click a link, select services you want to use in the new window, copy and "
+#~ "paste them into the textarea (<u>leave empty to use the default services</"
+#~ "u>)"
+#~ msgstr ""
+#~ "Cliquez sur un lien, sélectionnez les services que vous voulez utiliser "
+#~ "dans la nouvelle fenêtre, copiez et collez-les dans le textarea "
+#~ "(<u>laisser vide pour utiliser les services par défaut</u>)"
+
+#~ msgid "For, lightbox"
+#~ msgstr "pour, lightbox"
+
+#~ msgid "(default = 4 columns)"
+#~ msgstr "(par défaut = 4 colonnes)"
+
+#~ msgid "Use non-javascript version"
+#~ msgstr "Utiliser la version non-javascript"
+
+#~ msgid "Choose the type of window you want to use"
+#~ msgstr "Choisissez le type de fenêtre que vous voulez utiliser"
+
+#~ msgid "Popup"
+#~ msgstr "Popup"
+
+#~ msgid "External"
+#~ msgstr "Externe"
+
+#~ msgid "Current"
+#~ msgstr "Actuel"
+
+#~ msgid "How to show dropdown menu or box"
+#~ msgstr "Affichage du menu déroulant et de la box"
+
+#~ msgid "For popup window"
+#~ msgstr "Pour la fenêtre popup"
+
+#~ msgid "Same"
+#~ msgstr "Actuel"
+
+#~ msgid "If dropdown, only show the menu when the user clicks the button :"
+#~ msgstr ""
+#~ "Si dropdown, afficher le menu uniquement lorsque l'utilisateur clique sur "
+#~ "le bouton :"
+
+#~ msgid ""
+#~ "Hide embedded objects when the dropdown menu is displayed (Flash, etc.) :"
+#~ msgstr ""
+#~ "Masquer les objets incorporés lorsque le menu déroulant est affiché "
+#~ "(Flash, etc.) :"
+
+#~ msgid "Both"
+#~ msgstr "Les deux"
+
+#~ msgid "English"
+#~ msgstr "Anglais"
+
+#~ msgid "French"
+#~ msgstr "Français"
+
+#~ msgid "Display this type at opening"
+#~ msgstr "Afficher ce type à l'ouverture"
+
+#~ msgid "Social networks"
+#~ msgstr "Les réseaux sociaux"
+
+#~ msgid "Permalink Pages"
+#~ msgstr "Les page des articles"
+
+#~ msgid "Listing Pages"
+#~ msgstr "Les listes des articles"
+
+#~ msgid "Image Button"
+#~ msgstr "Image du bouton"
+
+#~ msgid "Post"
+#~ msgstr "R"
